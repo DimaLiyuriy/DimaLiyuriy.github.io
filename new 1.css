@@ -1,0 +1,35 @@
+body{
+	background:#cfc; 
+	background-image:url('#ffc')	;
+}
+
+div{
+	text-align: center; 
+	margin-left: 350px;
+	padding-bottom: 20px;
+	margin-right: 350px;
+	border: 10px solid #565D65;
+    border-radius: 50px;
+    background-color: white;
+}
+
+h1{
+	font-size:55px;
+	font-family:Arial;
+}
+
+img{
+	border:10px solid #565D65;
+	border-radius:50px;
+}
+
+.Wrapper{
+            padding-left: 30px;
+			padding-right: 30px;			
+			text-shadow: unset;
+}
+
+hr{
+	border: 5px solid #565D65;
+}
+
